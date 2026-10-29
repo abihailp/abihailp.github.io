@@ -12,7 +12,7 @@ return (
     <p className="text-md pt-5 mx-auto">Hi, my name is Abihail Petit-Frere. </p>
     <p className="text-md mx-auto">I am a software engineer from Miami, FL.</p>
 
-    <p className="text-xxl font-semibold pt-5 mx-auto my-7
+    <p className="p1 text-xxl font-semibold pt-5 mx-auto my-7
     .5">I love coding, and here are my latest projects:</p>
     <ul className="text-md py-5">
       <li className="pt-5 pl-5"><strong>nolimits-marketing.com - Web Development</strong></li>
