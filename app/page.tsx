@@ -26,7 +26,7 @@ return (
       <p className="pt-5 pl-10">Starting with React and Next.Js, I created a browser game where the objective is to get to other side of the street using the directional arrows as controls.</p>
       <li className="pt-5 pl-5"><strong>Portfolio Website</strong></li>
       <p className="font-semibold pl-5">10/2026</p>
-      <p className="pl-10 pt-2.5">Using NextJs and vanilla javascript I created a portfolio website displaying all of my projects.</p>
+      <p className="pl-10 pt-2.5">Using NextJs and plain CSS I created a portfolio website displaying all of my projects.</p>
     </ul>
     </div>
     </main>
